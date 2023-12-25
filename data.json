@@ -1,0 +1,10 @@
+[
+  {"id":0,"name":"Zack","job":"Warrior","game":"FFVII","desc":"True SOLDIER First Class"},
+  {"id":1,"name":"Cloud","job":"Warrior","game":"FFVII","desc":"Ex-SOLDIER who lost his memories"},
+  {"id":2,"name":"Auron","job":"Warrior","game":"FFX","desc":"Legendary guardian brought back from the dead"},
+  {"id":3,"name":"Sephiroth","job":"Warrior","game":"FFVII","desc":"Incredible fighter who wants to destroy the planet  "},
+  {"id":4,"name":"Jecht","job":"Warrior","game":"FFX","desc":"Greatest blitzballer of all time"},
+  {"id":5,"name":"Yuna","job":"Summoner","game":"FFX","desc":"Young lady on a pilgrimage"},
+  {"id":6,"name":"Tifa","job":"Monk","game":"FFVII","desc":"Clouds childhood friend"},
+  {"id":7,"name":"Lulu","job":"Black Mage","game":"FFX","desc":"Guardian for Yuna"}
+]
